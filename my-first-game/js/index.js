@@ -1,4 +1,3 @@
-
 // Your Interactive game
 
 const playGame = confirm("Shall we play rock, paper, or scissors?");
